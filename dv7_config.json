@@ -1,0 +1,22 @@
+{
+    "encoder_script_path": "F:\\Dolby Encoding Engine\\python_scripts\\encode_dvmezz_to_dv7.py",
+    "toolset-dir": "F:\\Dolby Encoding Engine",
+    "license": "F:\\Dolby Encoding Engine\\license.lic",
+    "print-all": 1,
+    "progress": 1,
+    "overwrite": 1,
+    "temp-dir": ".\\Temp",
+    "keep-temp": 0,
+    "ffmpeg": "ffmpeg",
+    "dvesverifier": "dvesverifier",
+    "input-format": "prores_mov",
+    "metadata-offset": 0,
+    "start": "0s",
+    "duration": "-1",
+    "encoder": "x265",
+    "preset": "medium",
+    "data-stream": 0,
+    "yuv-buffer-size": -1,
+    "encoder-pass-num": 2,
+    "use-case": "map_to_1000_nits_with_fel"
+}
