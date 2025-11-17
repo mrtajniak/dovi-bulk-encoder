@@ -24,13 +24,13 @@ You can provide them through a **JSON configuration file**.
 
 The script also includes additional custom arguments, which can be viewed via:
 
-\`\`\`bash
-dovi-bulk-encoder -h
-# or
-dovi-bulk-encoder --help
-\`\`\`
-
----
+```bash
+python folder_watcher_dv7_encoder.py -h
+```
+or
+```bash
+python folder_watcher_dv7_encoder.py --help
+```
 
 ## 🐍 Requirements
 
